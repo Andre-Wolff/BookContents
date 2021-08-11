@@ -2,7 +2,7 @@
 
 ---
 
-Make sure to personalize your welcome message with something unique!
+Welcome to the fine game developed in C# an Unity 3D
 
 # BookContents
 Public repo of the Learning C# with Unity 3D book contents
